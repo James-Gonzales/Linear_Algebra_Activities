@@ -2,7 +2,7 @@
 
 This blog is all about linear algebra and its essence and application in real world
 
-### Essence of linear algebra 
+### Essence of Linear Algebra 
 
 Linear algebra is a branch of mathematics that tackles linear equations, vectors, matrices, and many more. As a student, we may think that linear algebra is just a subject or course that gives us hardship and a subject that just needs to be passed. Linear algebra is important because there is a variety of topics that are tackled in this course that can be used or relate to real-life scenarios and even solve real-life problems. There are many areas that linear algebra can be applied to like in medicine, business, technology, and in many more fields that you can think of. The essence also of this course is that it can help in monitoring or representing data easily. We know that data is important these days, data are monitored so that it can help a business to be successful, some data help in tracking, and some data need to be analyzed to help a specific group or organization. For example, data scientist analyze and interpret data that helps an organization, some of the topics tackled in linear algebra can be used by them in interpreting the data and represent them through graphs. You don't need to be a data scientist to do these things, once you have completed and learned through this course you can apply them for your interest or to help others. There are so much more importance of linear algebra and the knowledge that we learned about this course should not be taken for granted, it should be used wisely because it can help us or people around us to have a better life. 
 
