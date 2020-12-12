@@ -1,1 +1,1 @@
-# hello
+# Linear Algebra Activities
